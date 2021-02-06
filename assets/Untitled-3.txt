@@ -1,0 +1,21 @@
+<html>
+ 
+<head>
+  <meta charset="UTF-8">
+  <title>Split image | Webdevtrick.com</title>
+  
+    <link rel="stylesheet" href="images/fulls/fam.jpg">
+    <link rel="stylesheet" href="style.css">  
+</head>
+ 
+<body>
+ 
+<div class="split">
+  <img src= "images/fulls/fam.jpg"/>
+</div>
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ <script  src="function.js"></script>
+</body>
+ 
+</html> 
